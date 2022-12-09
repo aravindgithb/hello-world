@@ -27,7 +27,7 @@
   
   <div class="input-container">
     <i class="fa fa-envelope icon"></i>
-    <input class="input-field" type="text" placeholder="education" name="education">
+    <input class="input-field" type="text" placeholder="email" name="email">
   </div>
   
       
