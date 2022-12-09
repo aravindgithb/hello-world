@@ -25,6 +25,11 @@
     <input class="input-field" type="text" placeholder="Age" name="Age">
   </div>
   
+  <div class="input-container">
+    <i class="fa fa-envelope icon"></i>
+    <input class="input-field" type="text" placeholder="education" name="education">
+  </div>
+  
       
   <button type="submit" class="btn">Register</button>
 </form>
